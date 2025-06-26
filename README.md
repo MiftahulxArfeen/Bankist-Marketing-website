@@ -82,7 +82,7 @@ This landing page was inspired by real-world banking websites and designed to **
 
 **Miftahul Arfeen**  
 💻 Frontend Developer | Passionate Learner | Clean Code Advocate  
-📬 [LinkedIn](https://www.linkedin.com/) | 🌐 [Portfolio](https://miftahulxarfeen.github.io/Personal-portfolio/) | 💼 [GitHub](https://github.com/miftahulxarfeen)
+📬 [LinkedIn](https://www.linkedin.com/in/miftahul-arfeen-full-stack-developer/) | 🌐 [Portfolio](https://miftahulxarfeen.github.io/Personal-portfolio/) | 💼 [GitHub](https://github.com/miftahulxarfeen)
 
 ---
 
